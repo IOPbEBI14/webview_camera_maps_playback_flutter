@@ -8,8 +8,8 @@ class VideoListView extends StatelessWidget {
     Key? key,
     this.items = const [
       VideoFile(1, 'Хоп-Хоп', 'Rzja-qJgSX4'),
-      VideoFile(2, 'Video 2', 'https://'),
-      VideoFile(3, 'Video 3', 'https://')
+      VideoFile(2, 'Южный парк', 'w-yduJfPSwg'),
+      VideoFile(3, 'Люк, я твой отец', 'nEMwOUKDM_I')
     ],
   }) : super(key: key);
 
